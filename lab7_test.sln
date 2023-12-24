@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab7_test", "lab7_test\lab7_test.csproj", "{F282B0EE-C67F-47BE-84A4-FD82F49437C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectlab7", "TestProjectlab7\TestProjectlab7.csproj", "{BCF83962-D0F2-41CC-AA8B-150F43EF0EF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{A20829C6-8798-4551-83E6-758A7FBE00C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F282B0EE-C67F-47BE-84A4-FD82F49437C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F282B0EE-C67F-47BE-84A4-FD82F49437C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F282B0EE-C67F-47BE-84A4-FD82F49437C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F282B0EE-C67F-47BE-84A4-FD82F49437C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF83962-D0F2-41CC-AA8B-150F43EF0EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF83962-D0F2-41CC-AA8B-150F43EF0EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF83962-D0F2-41CC-AA8B-150F43EF0EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF83962-D0F2-41CC-AA8B-150F43EF0EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEBEFCD3-6FA7-4DF6-A471-27A3157B0D0D}
+	EndGlobalSection
+EndGlobal
